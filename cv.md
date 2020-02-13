@@ -2,6 +2,7 @@
 
 ## Contact Info:   
 Email: qatechnix@gmail.com
+Telegram: @w3c0de
 
 ## Summary: 
 I have been interested in web development for a long time. 
@@ -25,5 +26,5 @@ I have no an expierence in IT yet.
 * 2002-2007 RMAT Organisation management
 * 2020 Codecademy, HTMLAcademy free courses and some books
 
-## English
+## English:
 Intermediate(B1)
