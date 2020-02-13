@@ -22,8 +22,8 @@ a job that will bring pleasure and satisfaction.
 I have no an expierence in IT yet.
 
 ## Education:
-2002-2007 RMAT Organisation management
-2020 Codecademy, HTMLAcademy free courses and some books
+* 2002-2007 RMAT Organisation management
+* 2020 Codecademy, HTMLAcademy free courses and some books
 
 ## English
 Intermediate(B1)
