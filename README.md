@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://w3code.github.io/rsschool-cv/cv
