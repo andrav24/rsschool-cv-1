@@ -1,0 +1,48 @@
+.wrapper {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.header {
+    text-align: left;
+    max-width: 600px;
+}
+
+.main {
+    text-align: left;
+    font-size: 18px;
+    max-width: 600px;
+}
+
+.footer {
+    text-align: left;
+    font-size: 18px;
+}
+
+.section {
+    text-align: left;
+    font-family: Verdana;
+    color: #24292e;
+    max-width: 600px;
+}
+
+.img {
+    width: 260px;
+    border-radius: 5px;
+}
+
+h1 {
+    font-size: 26px;
+}
+
+h2 {
+    font-size: 22px;
+}
+
+a {
+    color: blue;
+}
+
+p {
+    margin-left: 10px;
+}
